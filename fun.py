@@ -54,5 +54,14 @@
 #     return total
 
 # print(calculate_total(10,3))
-# print(calculate_total(10,3,5))
+# print(cal ate_total(10,3,5))
 # print(calculate_total(50,2,0))
+
+
+def is_adult(age):
+    return age >=18
+
+people =[( "Denis", 30),("Ben",16)]
+for name,age in people:
+    if is_adult(age):
+        print(name,"is an adult")
