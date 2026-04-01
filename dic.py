@@ -35,3 +35,4 @@ thisdict ={
 # print(employees[1]['name'])
 
 
+a = [{'name': 'Error',"age":25},{}
