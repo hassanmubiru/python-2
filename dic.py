@@ -45,8 +45,8 @@ thisdict ={
 #     a.append({"name": f"person {i+1}","age" : 20 +i})
 # print(a)
 
-name =["Denis","Bash","error"]
-age = [25,30,40]
+# name =["Denis","Bash","error"]
+# age = [25,30,40]
 
-x = [{"name": name[i],"age":age[i]} for i in range(len(name))]
-print(x)
+# x = [{"name": name[i],"age":age[i]} for i in range(len(name))]
+# # print(x)
