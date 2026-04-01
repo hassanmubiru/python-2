@@ -48,3 +48,5 @@ thisdict ={
 name =["Denis","Bash","error"]
 age = [25,30,40]
 
+x = [{"name": name[i],"age":age[i]} for i in range(len(name))]
+print(x)
