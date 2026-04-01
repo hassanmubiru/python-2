@@ -39,8 +39,12 @@ thisdict ={
 # print(a)
 # print(type(a))
 
-a = []
+# a = []
 
-for i in range(3):
-    a.append({"name": f"person {i+1}","age" : 20 +i})
-print(a)
+# for i in range(3):
+#     a.append({"name": f"person {i+1}","age" : 20 +i})
+# print(a)
+
+name =["Denis","Bash","error"]
+age = [25,30,40]
+
