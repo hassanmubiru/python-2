@@ -30,3 +30,4 @@ employees = [
     {"name": "Denis","age":25}
 ]
 
+employees = [{}
