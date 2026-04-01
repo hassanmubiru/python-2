@@ -55,3 +55,4 @@ text = "hello,world"
 
 print(text.strip())
 print(text.replace('fun','asesome'))
+print(text.upper())
