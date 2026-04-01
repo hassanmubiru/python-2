@@ -57,4 +57,5 @@ thisdict ={
 # print(text.replace('fun','asesome'))
 # print(text.upper())
 
-words = 'apple banana mango'.split
+words = 'apple banana mango'.split()
+print(words)
