@@ -11,3 +11,15 @@ thisdict ={
 # thisdict.pop("brand")
 # thisdict.popitem()
 # print(thisdict)
+
+
+students = [
+    {"name":"Alice","score":90},
+    {"name":"Bob","score":60},
+    {"name":"denis","score":98}
+]
+
+for s in students:
+    if s["score"] >= 80:
+        print(s["name"],"passed")
+
