@@ -36,3 +36,5 @@ thisdict ={
 
 
 a = [{'name': 'Error',"age":25},{'name':'denis','age':30}]
+print(a)
+print(type(a))
