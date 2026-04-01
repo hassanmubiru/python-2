@@ -51,8 +51,9 @@ thisdict ={
 # x = [{"name": name[i],"age":age[i]} for i in range(len(name))]
 # # print(x)
 
-text = "hello,world"
+# text = "hello,world"
 
-print(text.strip())
-print(text.replace('fun','asesome'))
-print(text.upper())
+# print(text.strip())
+# print(text.replace('fun','asesome'))
+# print(text.upper())
+
