@@ -26,5 +26,5 @@ thisdict ={
 # # 
 
 employees = [
-    {"name"}
+    {"name": "Hassan","age":30},
 ]
