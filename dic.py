@@ -59,3 +59,4 @@ thisdict ={
 
 words = 'apple banana mango'.split()
 print(words)
+print(','.join(words))
