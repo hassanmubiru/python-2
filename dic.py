@@ -35,4 +35,4 @@ thisdict ={
 # print(employees[1]['name'])
 
 
-a = [{'name': 'Error',"age":25},{}
+a = [{'name': 'Error',"age":25},{'name':'denis','age':30}]
