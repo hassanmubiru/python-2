@@ -75,3 +75,6 @@ thisdict ={
 #     return "Pass" if score >= 50 else "Fail"
 # score = 30
 # print(f"Your score is : {get_status(score)}")
+
+first_name = 'Jane'
+last_name = 'error'
