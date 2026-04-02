@@ -68,5 +68,5 @@ thisdict ={
 # # print(f'result :{text.strip().upper()}')
 # print(f'result : {name.strip().upper()}')
 
-user = 'Denis'
-print(f'{user=}')
+# user = 'Denis'
+# print(f'{user=}')
