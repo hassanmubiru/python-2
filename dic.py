@@ -64,3 +64,5 @@ thisdict ={
 # name  = 'Denis'
 # print(f'hello,{name.upper()}')
 
+text = 'Welcome to python for beginers'
+print(f'result :{text.strip().upper()}')
