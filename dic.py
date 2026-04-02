@@ -61,8 +61,9 @@ thisdict ={
 # print(words)
 # print(','.join(words))
 
-# name  = 'Denis'
+name  = 'Denis'
 # print(f'hello,{name.upper()}')
 
-text = 'Welcome to python for beginers'
-print(f'result :{text.strip().upper()}')
+# text = 'Welcome to python for beginers'
+# print(f'result :{text.strip().upper()}')
+print(f'result : {name.strip().upper()}')
