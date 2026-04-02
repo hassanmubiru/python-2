@@ -61,4 +61,5 @@ thisdict ={
 # print(words)
 # print(','.join(words))
 
-name  =
+name  = 'Denis'
+print(f'hello,{name.upper()}')
