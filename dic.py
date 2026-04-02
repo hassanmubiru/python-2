@@ -71,7 +71,7 @@ thisdict ={
 # user = 'Denis'
 # print(f'{user=}')
 
-def get_status(score):
-    return "Pass" if score >= 50 else "Fail"
-score = 30
-print(f"Your score is : {get_status(score)}")
+# def get_status(score):
+#     return "Pass" if score >= 50 else "Fail"
+# score = 30
+# print(f"Your score is : {get_status(score)}")
