@@ -73,5 +73,5 @@ thisdict ={
 
 def get_status(score):
     return "Pass" if score >= 50 else "Fail"
-score = 75
+score = 30
 print(f"Your score is : {get_status(score)}")
