@@ -81,8 +81,9 @@ thisdict ={
 
 # print(f'FullName : {first_name} {last_name}')
 
-name = "denis"
-age = 30
+# name = "denis"
+# age = 30
 
-message = f"My name is {name} and am {age} years old" 
-print(message)
+# message = f"My name is {name} and am {age} years old" 
+# print(message)
+
