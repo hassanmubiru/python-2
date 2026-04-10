@@ -76,7 +76,7 @@ thisdict ={
 # score = 30
 # print(f"Your score is : {get_status(score)}")
 
-first_name = 'Jane'
-last_name = 'error'
+# first_name = 'Jane'
+# last_name = 'error'
 
-print(f'FullName : {first_name} {last_name}')
+# print(f'FullName : {first_name} {last_name}')
