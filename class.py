@@ -8,3 +8,6 @@ class Parrot:
     # class attribute
     name = ""
     age = 0
+
+    # create parrot1 as object
+    
