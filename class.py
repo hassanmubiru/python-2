@@ -19,4 +19,6 @@ class Parrot:
     parrot2.name = "woo"
     parrot2.age = 15
 
-    
+    # access attributes
+    print(f"{parrot1.name} is {parrot1.age} year old")
+    print(f"
