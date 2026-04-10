@@ -81,3 +81,4 @@ thisdict ={
 
 # print(f'FullName : {first_name} {last_name}')
 
+name = "denis"
