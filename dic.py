@@ -87,6 +87,6 @@ thisdict ={
 # message = f"My name is {name} and am {age} years old" 
 # print(message)
 
-x = 10
-y = 3
-print(f"{x} divided by {y} is {x/y:.2f}")
+# x = 10
+# y = 3
+# print(f"{x} divided by {y} is {x/y:.2f}")
