@@ -15,3 +15,8 @@ class Parrot:
     parrot1.age = 10
 
     # create parrot2 as object
+    parrot2 = Parrot()
+    parrot2.name = "woo"
+    parrot2.age = 15
+
+    
