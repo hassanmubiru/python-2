@@ -89,3 +89,4 @@ thisdict ={
 
 x = 10
 y = 3
+print(f"{x} divided by {y} is {x/y:.2f}")
