@@ -87,3 +87,5 @@ thisdict ={
 # message = f"My name is {name} and am {age} years old" 
 # print(message)
 
+x = 10
+y = 3
