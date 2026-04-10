@@ -83,3 +83,5 @@ thisdict ={
 
 name = "denis"
 age = 30
+
+message = f"My is {name} and am {age} years old" 
