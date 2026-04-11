@@ -5,4 +5,5 @@ class Car:
         self.year  = year
         self.mileage = mileage
 
+    def drive(self,distance):
         
