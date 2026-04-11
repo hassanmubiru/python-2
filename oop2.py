@@ -32,3 +32,4 @@ class BankAccount:
     def get_balance(self):
         return f"${self.balance:.2f}"
     
+    # using class
