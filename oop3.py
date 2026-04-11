@@ -10,4 +10,7 @@ class Car:
         print(f"Drove {distance} km. Total mileage: {self.mileage} km")
     
     def get_info(self):
-        
+        return f"{self.year}{self.brand} {self.model},Mileage :{self.mileage} km"
+    
+
+#Using the class
