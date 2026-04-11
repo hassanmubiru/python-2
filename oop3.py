@@ -26,3 +26,8 @@ print(my_car.get_info())
 class ElectricCar(Car):
     def __init__(self, brand, model, year, battery_capacity,mileage=0):
         super().__init__(brand, model, year, mileage)
+        self.battery_capacity = battery_capacity
+        self.battery_level = battery_capacity
+
+    def drive(self,distance):
+        
