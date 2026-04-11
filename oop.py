@@ -27,4 +27,7 @@ class Person:
     location = "Kampala"
     occuption = "Farmer"
     contact = 0753207890
-    
+
+    def Sing():
+        return('This person sings nicley')
+print(Person.Sing())
