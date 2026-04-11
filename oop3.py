@@ -43,4 +43,7 @@ class ElectricCar(Car):
     
     def get_info(self):
         base_info = super().get_info()
-        
+        return f"{base_info},Battery: {self.battery_level:1f}/{self.battery_capacity} kwh"
+
+#using the classes
+my_tesla = ElectricCar("Tesla","Model 3",2022,battery_capacity=75)
