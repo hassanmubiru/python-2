@@ -24,3 +24,6 @@
 class Person:
     name = "Denis"
     age = 25
+    location = "Kampala"
+    occuption = "Farmer"
+    
