@@ -23,3 +23,4 @@
 
 class Person:
     name = "Denis"
+    age = 25
