@@ -15,3 +15,4 @@ class Car:
 
 #Using the class
 my_car = Car("Toyota","Carolla",2021,15000)
+print(my_car.get_info())
