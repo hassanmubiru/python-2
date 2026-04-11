@@ -34,7 +34,13 @@ print(Person.Sing())
 
 #create another object of class person
 Person2 = Person()
-Person2.name = 
+Person2.name = 'John'
+Person2.age = 27
+Person2.contact = 75697607
+Person2.location ="Jinja"
+Person2.occuption = 'Mechanic'
+
+print(Person2.name)
 
 # class Animal:
 #     animal_name = 'Dog'
