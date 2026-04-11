@@ -21,16 +21,16 @@
 
 
 
-# class Person:
-#     name = "Denis"
-#     age = 25
-#     location = "Kampala"
-#     occuption = "Farmer"
-#     contact = 753207890
+class Person:
+    name = "Denis"
+    age = 25
+    location = "Kampala"
+    occuption = "Farmer"
+    contact = 753207890
 
-#     def Sing():
-#         return('This person sings nicley')
-# print(Person.Sing())
+    def Sing():
+        return('This person sings nicley')
+print(Person.Sing())
 
 # class Animal:
 #     animal_name = 'Dog'
