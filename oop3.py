@@ -6,4 +6,8 @@ class Car:
         self.mileage = mileage
 
     def drive(self,distance):
+        self.mileage += distance
+        print(f"Drove {distance} km. Total mileage: {self.mileage} km")
+    
+    def get_info(self):
         
