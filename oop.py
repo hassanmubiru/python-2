@@ -21,26 +21,26 @@
 
 
 
-class Person:
-    name = "Denis"
-    age = 25
-    location = "Kampala"
-    occuption = "Farmer"
-    contact = 753207890
+# class Person:
+#     name = "Denis"
+#     age = 25
+#     location = "Kampala"
+#     occuption = "Farmer"
+#     contact = 753207890
 
-    def Sing():
-        return('This person sings nicley')
-print(Person.Sing())
+#     def Sing():
+#         return('This person sings nicley')
+# print(Person.Sing())
 
-#create another object of class person
-Person2 = Person()
-Person2.name = 'John'
-Person2.age = 27
-Person2.contact = 75697607
-Person2.location ="Jinja"
-Person2.occuption = 'Mechanic'
+# #create another object of class person
+# Person2 = Person()
+# Person2.name = 'John'
+# Person2.age = 27
+# Person2.contact = 75697607
+# Person2.location ="Jinja"
+# Person2.occuption = 'Mechanic'
 
-print(Person2.name)
+# print(Person2.name)
 
 # class Animal:
 #     animal_name = 'Dog'
