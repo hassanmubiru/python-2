@@ -34,4 +34,5 @@ class ElectricCar(Car):
         if energy_used > self.battery_level:
             print(f"Not enough battery to drive that far !")
         else:
-            self.battery_level -=
+            self.battery_level -= energy_used
+            super().drive(distance)
