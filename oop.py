@@ -26,7 +26,7 @@ class Person:
     age = 25
     location = "Kampala"
     occuption = "Farmer"
-    contact = 0753207890
+    contact = 753207890
 
     def Sing():
         return('This person sings nicley')
