@@ -22,3 +22,7 @@ my_car.drive(120)
 my_car.drive(80)
 
 print(my_car.get_info())
+
+class ElectricCar(Car):
+    def __init__(self, brand, model, year, battery_capacity,mileage=0):
+        super().__init__(brand, model, year, mileage)
