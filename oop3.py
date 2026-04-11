@@ -36,3 +36,5 @@ class ElectricCar(Car):
         else:
             self.battery_level -= energy_used
             super().drive(distance)
+
+    
