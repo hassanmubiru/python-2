@@ -16,3 +16,9 @@ class Car:
 #Using the class
 my_car = Car("Toyota","Carolla",2021,15000)
 print(my_car.get_info())
+
+
+my_car.drive(120)
+my_car.drive(80)
+
+print(my_car.get_info())
