@@ -26,4 +26,5 @@ class Person:
     age = 25
     location = "Kampala"
     occuption = "Farmer"
+    contact = 0753207890
     
