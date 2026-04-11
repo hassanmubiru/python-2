@@ -43,3 +43,4 @@ class Animal:
 
     def Sound():
         return ('This animal barks')
+print(Animal.Sound())
