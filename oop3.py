@@ -37,4 +37,8 @@ class ElectricCar(Car):
             self.battery_level -= energy_used
             super().drive(distance)
 
+    def charge(self,amount):
+        self.battery_level = min(self.battery_capacity,self.battery_level + amount)
+        print(f"Charged battery. Current level: {self.battery_level:1f} kwh")
+    
     
