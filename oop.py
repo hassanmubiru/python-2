@@ -32,15 +32,15 @@
 #         return('This person sings nicley')
 # print(Person.Sing())
 
-class Animal:
-    animal_name = 'Dog'
-    animal_type = 'Mamal'
-    animal_color = 'Brown'
-    animal_size = 'Medium',
-    animal_skin_texture = 'fur'
-    animal_owner = 'Denis'
-    animal_location = 'Kampala'
+# class Animal:
+#     animal_name = 'Dog'
+#     animal_type = 'Mamal'
+#     animal_color = 'Brown'
+#     animal_size = 'Medium',
+#     animal_skin_texture = 'fur'
+#     animal_owner = 'Denis'
+#     animal_location = 'Kampala'
 
-    def Sound():
-        return ('This animal barks')
-print(Animal.Sound())
+#     def Sound():
+#         return ('This animal barks')
+# print(Animal.Sound())
