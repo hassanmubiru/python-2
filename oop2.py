@@ -17,4 +17,9 @@
 
 class BankAccount:
     def __init__(self,owner,balance = 0):
-        
+        self.owner = 'Denis'
+        self.balance = balance
+
+    def deposit(self,amount):
+        self.balance += amount
+        print(f"Deposited :${amount:.2f} .New balance: ${self.balance:.2f}")
