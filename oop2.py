@@ -32,10 +32,10 @@ class BankAccount:
     def get_balance(self):
         return f"${self.balance:.2f}"
     
-    # using class
+# using class
 
-        acc = BankAccount("denis",500)
-        acc.deposit(200)
-        acc.withdraw(100)
-        acc.withdraw(700)
-        print(acc.get_balance())
+acc = BankAccount("denis",500)
+acc.deposit(200)
+acc.withdraw(100)
+acc.withdraw(700)
+print(acc.get_balance())
