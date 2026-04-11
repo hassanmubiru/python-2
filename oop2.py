@@ -17,7 +17,7 @@
 
 class BankAccount:
     def __init__(self,owner,balance = 0):
-        self.owner = 'Denis'
+        self.owner = "Denis"
         self.balance = balance
 
     def deposit(self,amount):
@@ -33,3 +33,9 @@ class BankAccount:
         return f"${self.balance:.2f}"
     
     # using class
+
+    acc = BankAccount("denis",500)
+    acc.deposit(200)
+    acc.withdraw(100)
+    acc.withdraw(700)
+    print(acc.get_balance())
