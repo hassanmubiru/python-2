@@ -33,6 +33,8 @@ class Person:
 print(Person.Sing())
 
 #create another object of class person
+Person2 = Person()
+Person2.name = 
 
 # class Animal:
 #     animal_name = 'Dog'
