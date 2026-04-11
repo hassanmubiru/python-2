@@ -47,3 +47,10 @@ class ElectricCar(Car):
 
 #using the classes
 my_tesla = ElectricCar("Tesla","Model 3",2022,battery_capacity=75)
+print(my_tesla.get_info())
+
+my_tesla.drive(100)
+my_tesla.drive(300)
+my_tesla.drive(60)
+
+print(my_tesla.get_info())
