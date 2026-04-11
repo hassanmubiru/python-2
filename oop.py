@@ -32,6 +32,8 @@ class Person:
         return('This person sings nicley')
 print(Person.Sing())
 
+#create another object of class person
+
 # class Animal:
 #     animal_name = 'Dog'
 #     animal_type = 'Mamal'
