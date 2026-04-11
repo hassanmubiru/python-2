@@ -41,4 +41,6 @@ class ElectricCar(Car):
         self.battery_level = min(self.battery_capacity,self.battery_level + amount)
         print(f"Charged battery. Current level: {self.battery_level:1f} kwh")
     
-    
+    def get_info(self):
+        base_info = super().get_info()
+        
