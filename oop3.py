@@ -30,4 +30,8 @@ class ElectricCar(Car):
         self.battery_level = battery_capacity
 
     def drive(self,distance):
-        
+        energy_used =distance * 0.2 #assume 0.2 kwh per km
+        if energy_used > self.battery_level:
+            print(f"Not enough battery to drive that far !")
+        else:
+            self.battery_level -=
