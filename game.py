@@ -4,4 +4,4 @@ import random
 # initialize pygame
 pygame.init()
 
-#Screen
+#Screen size
