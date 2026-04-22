@@ -5,4 +5,4 @@ import random
 pygame.init()
 
 #Screen size
-w
+width
