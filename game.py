@@ -18,3 +18,4 @@ green = (0,255,0)
 
 
 # Snake Settings
+snake
