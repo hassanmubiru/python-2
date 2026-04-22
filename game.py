@@ -12,4 +12,4 @@ pygame.display.set_caption("Snake Game")
 
 #colors
 white = (255,255,255)
-black
+black = (0,0,0)
