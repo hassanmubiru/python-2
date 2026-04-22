@@ -19,4 +19,4 @@ green = (0,255,0)
 
 # Snake Settings
 snake_block = 10
-snake_speed 
+snake_speed = 
