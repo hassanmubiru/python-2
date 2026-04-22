@@ -11,4 +11,4 @@ screen = pygame.display.set_model((width,height))
 pygame.display.set_caption("Snake Game")
 
 #colors
-white
+white = (255,255,255)
