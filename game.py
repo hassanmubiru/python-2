@@ -20,4 +20,4 @@ green = (0,255,0)
 # Snake Settings
 snake_block = 10
 snake_speed = 15
-clock = pygame.
+clock = pygame.time.clock
