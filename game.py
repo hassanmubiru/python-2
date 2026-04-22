@@ -6,3 +6,4 @@ pygame.init()
 
 #Screen size
 width = 600
+height = 400
