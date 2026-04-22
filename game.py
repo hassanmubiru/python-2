@@ -8,4 +8,4 @@ pygame.init()
 width = 600
 height = 400
 screen = pygame.display.set_model((width,height))
-pygame.display
+pygame.display.set_caption
