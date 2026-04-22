@@ -13,4 +13,5 @@ pygame.display.set_caption("Snake Game")
 #colors
 white = (255,255,255)
 black = (0,0,0)
-red = 
+red = (213,50,80)
+green
