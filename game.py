@@ -18,4 +18,4 @@ green = (0,255,0)
 
 
 # Snake Settings
-snake_block =
+snake_block = 10
