@@ -21,3 +21,4 @@ green = (0,255,0)
 snake_block = 10
 snake_speed = 15
 clock = pygame.time.clock()
+font
