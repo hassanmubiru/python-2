@@ -38,5 +38,5 @@ def message(msg,color):
     Length_of_snake = 1
 
     # Food position
-    foodx = round(random.randrange(0,width - snake))
+    foodx = round(random.randrange(0,width - snake_block))
 
