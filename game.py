@@ -45,6 +45,7 @@ def message(msg,color):
 
         while game_close:
             screen.fill(white)
-            message()
+            message("You Lost! Press Q-Quit or C-Play Again",red)
+            pygame.display.update()
 
 
