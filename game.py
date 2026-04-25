@@ -32,5 +32,5 @@ def message(msg,color):
     x1 = width /2
     y2 = height / 2
     x1_change = 0
-    y1
+    y1_change = 0
 
