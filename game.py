@@ -34,5 +34,5 @@ def message(msg,color):
     x1_change = 0
     y1_change = 0
 
-    snake_List =
+    snake_List = []
 
