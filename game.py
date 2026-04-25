@@ -48,4 +48,4 @@ def message(msg,color):
             message("You Lost! Press Q-Quit or C-Play Again",red)
             pygame.display.update()
 
-            for event in pygame.event
+            for event in pygame.event.get()
