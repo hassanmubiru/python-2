@@ -43,5 +43,7 @@ def message(msg,color):
 
     while not game_over:
 
-        while game_
+        while game_close:
+            
+
 
