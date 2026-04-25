@@ -31,5 +31,5 @@ def message(msg,color):
     # Snake starting position
     x1 = width /2
     y2 = height / 2
-    x1
+    x1_change 
 
