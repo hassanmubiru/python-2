@@ -28,5 +28,5 @@ def message(msg,color):
     game_over = False
     game_close = False
 
-    # Snake starting 
+    # Snake starting position
 
