@@ -38,4 +38,5 @@ def message(msg,color):
     Length_of_snake = 1
 
     # Food position
+    foodx = round
 
