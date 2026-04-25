@@ -25,5 +25,5 @@ font_style = pygame.font.SysFont("bahnschrif",25)
 score_font = pygame.font.SysFont("comicsansms",35)
 
 def message(msg,color):
-    game_over = false
+    game_over = False
 
