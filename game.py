@@ -24,3 +24,5 @@ clock = pygame.time.clock()
 font_style = pygame.font.SysFont("bahnschrif",25)
 score_font = pygame.font.SysFont("comicsansms",35)
 
+def
+
