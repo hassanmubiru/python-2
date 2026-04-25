@@ -29,5 +29,5 @@ def message(msg,color):
     game_close = False
 
     # Snake starting position
-    x1 = width
+    x1 = width /2
 
