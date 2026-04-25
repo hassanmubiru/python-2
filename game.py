@@ -45,5 +45,6 @@ def message(msg,color):
 
         while game_close:
             screen.fill(white)
+            message
 
 
