@@ -37,5 +37,5 @@ def message(msg,color):
     snake_List = []
     Length_of_snake = 1
 
-    #
+    # Food 
 
