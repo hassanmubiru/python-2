@@ -52,4 +52,4 @@ def message(msg,color):
                 if event.type == pygame.KEYDOM:
                     if event.key == pygame.K_q:
                         game_over = True
-                        game_close = 
+                        game_close = False
