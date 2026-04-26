@@ -59,3 +59,4 @@ def message(msg,color):
             if event.type == pygame.QUIT:
                 game_over = True
                 if event.type == pygame.KEYDOWN:
+                    
