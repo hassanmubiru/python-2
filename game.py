@@ -56,4 +56,4 @@ def message(msg,color):
                     if event.key == pygame.K_c:
                         gameLoop()
         for event in pygame.event.get():
-            if event.type 
+            if event.type == pygame.QUIT:
