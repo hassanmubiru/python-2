@@ -72,3 +72,4 @@ def message(msg,color):
                         y1_change = snake_block
                         x1_change = 0
         
+        
