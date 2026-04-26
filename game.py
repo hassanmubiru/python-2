@@ -73,4 +73,4 @@ def message(msg,color):
                         x1_change = 0
         
         for event in pygame.event.get():
-            if event.type ==
+            if event.type == pygame
