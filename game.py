@@ -55,3 +55,4 @@ def message(msg,color):
                         game_close = False
                     if event.key == pygame.K_c:
                         gameLoop()
+        
