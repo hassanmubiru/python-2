@@ -82,3 +82,4 @@ def message(msg,color):
                 elif event.key == pygame.K_RIGHT:
                     x1_change = snake_block
                     y1_change = 0
+                    
