@@ -73,4 +73,5 @@ def message(msg,color):
                         x1_change = 0
         
         for event in pygame.event.get():
-            if event.type == pygame
+            if event.type == pygame.QUIT:
+                
