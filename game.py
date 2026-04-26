@@ -57,3 +57,4 @@ def message(msg,color):
                         gameLoop()
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
+                game_over
