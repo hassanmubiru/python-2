@@ -78,3 +78,4 @@ def message(msg,color):
             if event.type == pygame.KEYDOWN:
                 if event.key == pygame.K_LEFT:
                    x1_change = -snake_block
+                   y1
