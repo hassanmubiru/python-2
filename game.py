@@ -77,4 +77,4 @@ def message(msg,color):
                 game_over = True
             if event.type == pygame.KEYDOWN:
                 if event.key == pygame.K_LEFT:
-                   x1_change =
+                   x1_change = -snake_block
