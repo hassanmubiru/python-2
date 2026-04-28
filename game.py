@@ -91,3 +91,4 @@ def message(msg,color):
         
         x1 += x1_change
         y1 += y1_change
+        
