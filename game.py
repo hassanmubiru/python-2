@@ -95,4 +95,4 @@ def message(msg,color):
         pygame.draw.rect(screen,green,[foodx,foody,snake_block,snake_block])
         snake_head = []
         snake_head.append(x1)
-        snnake_List.
+        snnake_List.append
