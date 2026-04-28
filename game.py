@@ -93,6 +93,7 @@ def message(msg,color):
         y1 += y1_change
         screen.fill(white)
         pygame.draw.rect(screen,green,[foodx,foody,snake_block,snake_block])
-        snake_head = []
+        snake_Head = []
         snake_Head.append(x1)
+        snake_Head.append(y1)
         snnake_List.append(snake_Head)
