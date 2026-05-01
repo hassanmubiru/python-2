@@ -98,6 +98,6 @@ def message(msg,color):
         snake_Head.append(y1)
         snake_List.append(snake_Head)
         if len(snake_List) > Length _of_snake:
-            del 
+            del snake
 
 
