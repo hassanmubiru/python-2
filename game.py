@@ -97,4 +97,4 @@ def message(msg,color):
         snake_Head.append(x1)
         snake_Head.append(y1)
         snake_List.append(snake_Head)
-        if len
+        if len(snake_List)
