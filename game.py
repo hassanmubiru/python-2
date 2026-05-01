@@ -100,6 +100,6 @@ def message(msg,color):
         if len(snake_List) > Length_of_snake:
             del snake_List[0]
         
-        for x in snake
+        for x in snake_List[:-1]:
 
 
