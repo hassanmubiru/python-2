@@ -103,5 +103,7 @@ def message(msg,color):
         for x in snake_List[:-1]:
             if x == snake_Head:
                 game_close = True
+        
+        
 
 
