@@ -96,5 +96,4 @@ def message(msg,color):
         snake_Head = []
         snake_Head.append(x1)
         snake_Head.append(y1)
-        snnake_List.append(snake_Head)
-        
+        snake_List.append(snake_Head)
