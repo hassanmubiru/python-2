@@ -99,6 +99,6 @@ def message(msg,color):
         snake_List.append(snake_Head)
         if len(snake_List) > Length_of_snake:
             del snake_List[0]
-            
+        
 
 
