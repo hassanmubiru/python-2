@@ -104,6 +104,6 @@ def message(msg,color):
             if x == snake_Head:
                 game_close = True
         
-        for block
+        for block in 
 
 
