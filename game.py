@@ -101,6 +101,6 @@ def message(msg,color):
             del snake_List[0]
         
         for x in snake_List[:-1]:
-            if x == 
+            if x == snake
 
 
