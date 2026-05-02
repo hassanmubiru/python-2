@@ -105,6 +105,6 @@ def message(msg,color):
                 game_close = True
         
         for block in snake_List[:-1]:
-            pygame.draw.
+            pygame.draw.rect
 
 
