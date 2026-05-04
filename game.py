@@ -109,6 +109,6 @@ def message(msg,color):
         pygame.display.update()
 
         if x1 == foodx and y1 == foody:
-            foodx = ro
+            foodx = roun
 
 
