@@ -107,5 +107,6 @@ def message(msg,color):
         for block in snake_List[:-1]:
             pygame.draw.rect(screen,black,[block[0],block[1],snake_block,snake_block])
         pygame.display.update()
+        
 
 
