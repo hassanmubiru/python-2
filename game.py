@@ -108,6 +108,6 @@ def message(msg,color):
             pygame.draw.rect(screen,black,[block[0],block[1],snake_block,snake_block])
         pygame.display.update()
 
-        if x1 == foodx and y1 == foo
+        if x1 == foodx and y1 == foody
 
 
