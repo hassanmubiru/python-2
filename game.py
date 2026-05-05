@@ -110,6 +110,6 @@ def message(msg,color):
 
         if x1 == foodx and y1 == foody:
             foodx = round(random.randrange(0,width - snake_block) /10.0) * 10.0
-            foody = round(random.randrange(0,height - snake_block) )
+            foody = round(random.randrange(0,height - snake_block) /)
 
 
