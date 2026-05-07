@@ -112,5 +112,6 @@ def message(msg,color):
             foodx = round(random.randrange(0,width - snake_block) /10.0) * 10.0
             foody = round(random.randrange(0,height - snake_block) /10.0) * 10.0
             Length_of_snake += 1
-
+        
+        
 
