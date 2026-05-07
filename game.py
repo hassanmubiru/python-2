@@ -116,5 +116,5 @@ def message(msg,color):
         clock.tick(snake_speed)
 
     pygame.quit()
-    qu
+    qui
 
