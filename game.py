@@ -118,5 +118,5 @@ def message(msg,color):
     pygame.quit()
     quit()
 
-    
+
 
